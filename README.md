@@ -1,2 +1,2 @@
 # guessing_game
-Super simple Python Guessing Game
+Super simple Python guessing game.
