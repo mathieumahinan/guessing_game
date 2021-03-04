@@ -1,7 +1,5 @@
 import random
 
-
-
 random_num = random.randint(1, 50)
 
 def play_again():
